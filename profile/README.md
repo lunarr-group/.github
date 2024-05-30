@@ -16,7 +16,8 @@ Forte de l’expertise technique de ses équipes, Lunarr propose une approche pe
 🧠 &nbsp; Le **conseil** stratégique en cybersécurité
   
 Que vous soyez une TPE, PME, ETI, une administration publique ou un établissement de santé, Lunarr met en place des solutions concrètes
-pour faire face aux menaces numériques. Grâce à sa connaissance approfondie des enjeux métiers de ses clients, Lunarr garantit une
+pour faire face aux menaces numériques.  
+Grâce à sa connaissance approfondie des enjeux métiers de ses clients, Lunarr garantit une
 protection efficace et adaptée à vos besoins.
 
 
