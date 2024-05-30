@@ -6,7 +6,7 @@
 
 ## Qui sommes-nous ?
 
-Lunarr est une entreprise experte qui accompagne les organisations dans leur lutte contre les cybermenaces.  
+Lunarr est une entreprise experte en cybersécurité qui accompagne les organisations dans leur lutte contre les cybermenaces.  
 Forte de l’expertise technique de ses équipes, Lunarr propose une approche personnalisée autour de 5 axes :
 
 🛡️ &nbsp; La **gouvernance**, **gestion** des risques et conformité (GRC)  
