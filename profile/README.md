@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.lunarr.fr">
-    <img src="./assets/logo.png" width="45%">
+    <img src="./assets/images/logo.png" width="300px">
   </a>
 </div>
 
